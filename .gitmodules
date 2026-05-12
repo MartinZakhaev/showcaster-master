@@ -1,0 +1,6 @@
+[submodule "apps/showcaster-fe"]
+	path = apps/showcaster-fe
+	url = https://github.com/MartinZakhaev/showcaster-fe.git
+[submodule "apps/showcaster-be"]
+	path = apps/showcaster-be
+	url = https://github.com/MartinZakhaev/showcaster-be.git
