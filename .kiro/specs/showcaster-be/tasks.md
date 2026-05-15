@@ -252,7 +252,7 @@ Implement the Showcaster backend as a Go + Fiber v2 REST API service. The implem
     - Start Fiber server on `cfg.Port`
     - _Requirements: 7.8, 12.1, 14.1–14.5_
 
-- [ ] 17. Write integration tests
+- [x] 17. Write integration tests
   - [ ]* 17.1 Write integration test for the full auth flow
     - Test: register → verify OTP → login using in-memory SQLite
     - _Requirements: 1.1, 1.6, 3.1, 2.1_
